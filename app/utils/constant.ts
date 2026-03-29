@@ -23,6 +23,28 @@ const projects = [
   },
   {
     index: "03",
+    title: "Car Stock Controller",
+    category: "Full-Stack · Next.js · Supabase",
+    year: "2026",
+    description:
+      "A comprehensive stock control system for managing car inventory. Built with Next.js and Supabase, it provides real-time updates and efficient inventory tracking.",
+    tags: ["Next.js", "Supabase", "Tailwind"],
+    link: "https://meanleapstock.vercel.app/",
+    featured: false,
+  },
+  {
+    index: "04",
+    title: "Bakong Transaction Verifier",
+    category: "Web App · Next.js",
+    year: "2026",
+    description:
+      "A web application that verifies Bakong transactions. Built with Next.js and Tailwind CSS for a seamless and responsive experience.",
+    tags: ["Next.js", "Tailwind"],
+    link: "https://verifybakongtrx.vercel.app/",
+    featured: true,
+  },
+  {
+    index: "05",
     title: "Police Alert",
     category: "Full-Stack · Next.js",
     year: "2026",
@@ -33,7 +55,7 @@ const projects = [
     featured: false,
   },
   {
-    index: "04",
+    index: "06",
     title: "Air Quality Monitor",
     category: "Web App · Next.js",
     year: "2026",
@@ -44,7 +66,7 @@ const projects = [
     featured: false,
   },
   {
-    index: "05",
+    index: "07",
     title: "Water Seller",
     category: "Web App · Next.js",
     year: "2026",
@@ -55,7 +77,7 @@ const projects = [
     featured: false,
   },
   {
-    index: "06",
+    index: "08",
     title: "Product Scanner",
     category: "Full-Stack · Next.js · Firebase",
     year: "2026",
