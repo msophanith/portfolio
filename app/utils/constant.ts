@@ -23,13 +23,13 @@ const projects = [
   },
   {
     index: "03",
-    title: "Car Stock Controller",
-    category: "Full-Stack · Next.js · Supabase",
+    title: "Invoice & Barcode Generator",
+    category: "Web App · ReactJs · Firebase",
     year: "2026",
     description:
-      "A comprehensive stock control system for managing car inventory. Built with Next.js and Supabase, it provides real-time updates and efficient inventory tracking.",
-    tags: ["Next.js", "Supabase", "Tailwind"],
-    link: "#",
+      "A web application that generates invoices and barcodes. Built with ReactJs and Firebase, it provides real-time updates and efficient inventory tracking.",
+    tags: ["ReactJs", "Firebase", "Tailwind"],
+    link: "https://vvoiceincam.web.app",
     featured: false,
   },
   {
@@ -86,6 +86,16 @@ const projects = [
     tags: ["Next.js", "Tailwind", "Firebase"],
     link: "https://alertmenow.vercel.app/scanner",
     featured: true,
+  },
+  {
+    index: "09",
+    title: "Curve Mirror",
+    category: "Web App · ReactJs · Tailwind CSS",
+    year: "2026",
+    description: "Funny Curve Mirror website.",
+    tags: ["ReactJs", "Tailwind"],
+    link: "https://consolelogcurves.vercel.app/",
+    featured: false,
   },
 ];
 
